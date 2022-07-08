@@ -1,4 +1,4 @@
-A simple HTML website for showcasing recipes
+A simple HTML website for showcasing recipes.
 
 [Live Demo](https://chicco4.github.io/recipes-website/) :point_left:
 
